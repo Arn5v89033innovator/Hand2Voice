@@ -181,7 +181,3 @@ Audio output 🔊
 ```
 
 ---
-
-## License
-
-MIT – free to use, modify and distribute.
